@@ -1,0 +1,43 @@
+{
+    "account_number": "274675",
+    "uid": "100033874568094",
+    "balance": "14288726",
+    "created_at": 1721963624680,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "1000000",
+            "author": "100033874568094",
+            "time": 1721963690981
+        },
+        {
+            "type": "repay",
+            "amount": "1000000",
+            "author": "100033874568094",
+            "time": 1721963786053
+        },
+        {
+            "type": "send",
+            "amount": "130000",
+            "author": "100033874568094",
+            "time": 1721965191148
+        },
+        {
+            "type": "send",
+            "amount": "9000000",
+            "author": "100033874568094",
+            "time": 1722087639099
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802497,
+        "debt": 1721967291701
+    },
+    "pass": "7748"
+}

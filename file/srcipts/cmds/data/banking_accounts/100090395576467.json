@@ -1,0 +1,78 @@
+{
+    "account_number": "834598",
+    "uid": "100090395576467",
+    "balance": "446703467",
+    "created_at": 1722257016622,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "10000000",
+            "author": "100090395576467",
+            "time": 1722280736005
+        },
+        {
+            "type": "send",
+            "amount": "200000000",
+            "author": "100090395576467",
+            "time": 1722291652463
+        },
+        {
+            "type": "withdraw",
+            "amount": "200000000",
+            "author": "100090395576467",
+            "time": 1722294730516
+        },
+        {
+            "type": "send",
+            "amount": "1000000000",
+            "author": "100090395576467",
+            "time": 1722295129646
+        },
+        {
+            "type": "withdraw",
+            "amount": "200000000",
+            "author": "100090395576467",
+            "time": 1722295244768
+        },
+        {
+            "type": "withdraw",
+            "amount": "800000000",
+            "author": "100090395576467",
+            "time": 1722295500356
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100090395576467",
+            "time": 1722295838101
+        },
+        {
+            "type": "send",
+            "amount": "100000000",
+            "author": "100090395576467",
+            "time": 1722369931308
+        },
+        {
+            "type": "send",
+            "amount": "100000000",
+            "author": "100090395576467",
+            "time": 1722543103507
+        },
+        {
+            "type": "send",
+            "amount": "100000000",
+            "author": "100090395576467",
+            "time": 1722594054142
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802669
+    },
+    "pass": "1111"
+}

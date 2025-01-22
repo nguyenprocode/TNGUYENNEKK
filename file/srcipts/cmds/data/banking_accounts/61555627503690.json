@@ -1,0 +1,31 @@
+{
+    "account_number": "078530",
+    "uid": "61555627503690",
+    "balance": "0",
+    "created_at": 1721759438451,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "1000000",
+            "author": "61555627503690",
+            "time": 1721767940944
+        },
+        {
+            "type": "repay",
+            "amount": "1000000",
+            "author": "61555627503690",
+            "time": 1721767976619
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1721854341171,
+        "debt": 1721771541172
+    },
+    "pass": "1105"
+}

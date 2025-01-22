@@ -1,0 +1,17 @@
+{
+    "account_number": "297447",
+    "uid": "100072017892537",
+    "balance": "0",
+    "created_at": 1721590168736,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [],
+    "logins": [],
+    "settings": {
+        "_2fa": true
+    },
+    "expired_ban": {},
+    "interest_period": {},
+    "pass": "taodeptrai123"
+}

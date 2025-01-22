@@ -1,0 +1,37 @@
+{
+    "account_number": "180890",
+    "uid": "61560759485397",
+    "balance": "0",
+    "created_at": 1721758009255,
+    "debt": "85571442",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "61560759485397",
+            "time": 1721758071816
+        },
+        {
+            "type": "pay",
+            "amount": "10000000",
+            "content": "Kk",
+            "author": "61560759485397",
+            "time": 1721758152265,
+            "to": "872608"
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1729750769067,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1721844472202,
+        "debt": 1721931206244
+    },
+    "pass": "15042010",
+    "timestamp_due_repay": 1721930871816
+}

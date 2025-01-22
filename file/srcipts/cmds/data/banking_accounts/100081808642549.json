@@ -1,0 +1,30 @@
+{
+    "account_number": "648701",
+    "uid": "100081808642549",
+    "balance": "15324408",
+    "created_at": 1722167021590,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "10000000",
+            "author": "100081808642549",
+            "time": 1722196364972
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000",
+            "author": "100081808642549",
+            "time": 1722196417267
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802653
+    },
+    "pass": "2716"
+}

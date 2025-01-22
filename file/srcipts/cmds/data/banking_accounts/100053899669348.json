@@ -1,0 +1,50 @@
+{
+    "account_number": "273592",
+    "uid": "100053899669348",
+    "balance": "117132",
+    "created_at": 1724525007782,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "setpass",
+            "pass": "Mrdai123",
+            "author": "100053899669348",
+            "time": 1724526093296
+        },
+        {
+            "type": "borrow",
+            "amount": "4000",
+            "author": "100053899669348",
+            "time": 1724533244782
+        },
+        {
+            "type": "repay",
+            "amount": "4000",
+            "author": "100053899669348",
+            "time": 1724533439028
+        },
+        {
+            "type": "receive",
+            "amount": "100000",
+            "content": "dem qua e tuyet lam",
+            "time": 1724534351648,
+            "from": "25122007"
+        },
+        {
+            "type": "withdraw",
+            "amount": "100",
+            "author": "100053899669348",
+            "time": 1724534664303
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802622,
+        "debt": 1724536845648
+    },
+    "pass": "Mrdai123"
+}

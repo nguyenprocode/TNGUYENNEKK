@@ -1,0 +1,54 @@
+{
+    "account_number": "656730",
+    "uid": "100072149224254",
+    "balance": "65340901",
+    "created_at": 1722800851944,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "87940824",
+            "author": "100072149224254",
+            "time": 1722891345941
+        },
+        {
+            "type": "send",
+            "amount": "175686",
+            "author": "100072149224254",
+            "time": 1722891412536
+        },
+        {
+            "type": "send",
+            "amount": "27629608",
+            "author": "100072149224254",
+            "time": 1723339942812
+        },
+        {
+            "type": "send",
+            "amount": "90861093",
+            "author": "100072149224254",
+            "time": 1723475887390
+        },
+        {
+            "type": "withdraw",
+            "amount": "212304445",
+            "author": "100072149224254",
+            "time": 1723475983834
+        },
+        {
+            "type": "send",
+            "amount": "48962704",
+            "author": "100072149224254",
+            "time": 1723479326706
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802638
+    },
+    "pass": "2936"
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "timer": "00:07:00",
+    "message": [
+      "Chúc mọi người ngủ ngon 😴"
+    ],
+    "type": "s",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "14:00:00",
+    "message": [
+      "thần tài đến!"
+    ],
+    "type": "vdgai",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "16:00:00",
+    "message": [
+      "căng đét"
+    ],
+    "type": "vdgai",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "17:00:00",
+    "message": [
+      "đây là tin nhắn tự động sau mỗi giờ !"
+    ],
+    "type": "girl",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "18:00:00",
+    "message": [
+      "đây là tin nhắn tự động sau mỗi giờ !"
+    ],
+    "type": "",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "20:00:00",
+    "message": [
+      "đây là tin nhắn tự động sau mỗi giờ !"
+    ],
+    "type": "girl",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "21:00:00",
+    "message": [
+      "đây là tin nhắn tự động sau mỗi giờ !"
+    ],
+    "type": "",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "22:00:00",
+    "message": [
+      "đây là tin nhắn tự động sau mỗi giờ !"
+    ],
+    "type": "girl",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "23:00:00",
+    "message": [
+      "đây là tin nhắn tự động sau mỗi giờ !"
+    ],
+    "type": "girl",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "00:00:00",
+    "message": [
+      "đây là tin nhắn tự động sau mỗi giờ !"
+    ],
+    "type": "girl",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "7:00:00",
+    "message": [
+      "buổi sáng vui vẻ"
+    ],
+    "type": "girl",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "1:00:00",
+    "message": [
+      "đây là tin nhắn tự động sau mỗi giờ !"
+    ],
+    "type": "girl",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "2:00:00",
+    "message": [
+      "đây là tin nhắn tự động sau mỗi giờ !"
+    ],
+    "type": "girl",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "3:00:00",
+    "message": [
+      "đây là tin nhắn tự động sau mỗi giờ !"
+    ],
+    "type": "girl",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "4:00:00",
+    "message": [
+      "đây là tin nhắn tự động sau mỗi giờ !"
+    ],
+    "type": "girl",
+    "lastSentTime": null,
+    "disabled": false
+  }
+]

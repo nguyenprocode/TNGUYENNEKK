@@ -1,0 +1,35 @@
+{
+    "account_number": "705669",
+    "uid": "61561519282745",
+    "balance": "0",
+    "created_at": 1720364698345,
+    "debt": "369835103790",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000000",
+            "author": "61561519282745",
+            "time": 1720365864518
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000000",
+            "author": "61561519282745",
+            "time": 1720443747252
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1729104599474,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1720452265108,
+        "debt": 1721150625266
+    },
+    "pass": "642",
+    "timestamp_due_repay": 1720970664518
+}

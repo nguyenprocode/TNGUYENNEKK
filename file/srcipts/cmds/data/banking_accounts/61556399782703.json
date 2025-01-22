@@ -1,0 +1,35 @@
+{
+    "account_number": "887278",
+    "uid": "61556399782703",
+    "balance": "252500",
+    "created_at": 1721671059410,
+    "debt": "2246195",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "500000",
+            "author": "61556399782703",
+            "time": 1721671161167
+        },
+        {
+            "type": "repay",
+            "amount": "250000",
+            "author": "61556399782703",
+            "time": 1721671688053
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1729750769067,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1721843962269,
+        "debt": 1721845968614
+    },
+    "pass": "4448",
+    "timestamp_due_repay": 1721843961167
+}

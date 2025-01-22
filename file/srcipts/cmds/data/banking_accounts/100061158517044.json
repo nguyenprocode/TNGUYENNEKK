@@ -1,0 +1,60 @@
+{
+    "account_number": "145068",
+    "uid": "100061158517044",
+    "balance": "0",
+    "created_at": 1722166760909,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "1000000",
+            "author": "100061158517044",
+            "time": 1722166780753
+        },
+        {
+            "type": "send",
+            "amount": "5000000",
+            "author": "100061158517044",
+            "time": 1722166851660
+        },
+        {
+            "type": "send",
+            "amount": "7868478",
+            "author": "100061158517044",
+            "time": 1722167660296
+        },
+        {
+            "type": "withdraw",
+            "amount": "7000000",
+            "author": "100061158517044",
+            "time": 1722167685170
+        },
+        {
+            "type": "withdraw",
+            "amount": "6868478",
+            "author": "100061158517044",
+            "time": 1722168640350
+        },
+        {
+            "type": "send",
+            "amount": "5000000000",
+            "author": "100061158517044",
+            "time": 1722170228771
+        },
+        {
+            "type": "withdraw",
+            "amount": "5000000000",
+            "author": "100061158517044",
+            "time": 1722170251288
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1722253181517
+    },
+    "pass": "5302"
+}

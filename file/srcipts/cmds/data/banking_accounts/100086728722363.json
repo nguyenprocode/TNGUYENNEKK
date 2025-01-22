@@ -1,0 +1,63 @@
+{
+    "account_number": "669664",
+    "uid": "100086728722363",
+    "balance": "6194748",
+    "created_at": 1721814584541,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "receive",
+            "amount": "50000000",
+            "content": "Sigma skidibi",
+            "time": 1721815102321,
+            "from": "123814"
+        },
+        {
+            "type": "withdraw",
+            "amount": "50000000",
+            "author": "100086728722363",
+            "time": 1721815196262
+        },
+        {
+            "type": "borrow",
+            "amount": "1000000",
+            "author": "100086728722363",
+            "time": 1721815887211
+        },
+        {
+            "type": "withdraw",
+            "amount": "1000000",
+            "author": "100086728722363",
+            "time": 1721815953869
+        },
+        {
+            "type": "receive",
+            "amount": "5000000",
+            "content": "Domdomyesyes",
+            "time": 1721829316357,
+            "from": "123814"
+        },
+        {
+            "type": "repay",
+            "amount": "1000000",
+            "author": "100086728722363",
+            "time": 1721829341796
+        },
+        {
+            "type": "repay",
+            "amount": "157625",
+            "author": "100086728722363",
+            "time": 1721829354189
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802653,
+        "debt": 1721830290195
+    },
+    "pass": "0490"
+}

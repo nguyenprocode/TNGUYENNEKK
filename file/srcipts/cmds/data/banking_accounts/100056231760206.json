@@ -1,0 +1,30 @@
+{
+    "account_number": "961299",
+    "uid": "100056231760206",
+    "balance": "3697169",
+    "created_at": 1724116141141,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "1000000",
+            "author": "100056231760206",
+            "time": 1724116183492
+        },
+        {
+            "type": "send",
+            "amount": "2000000",
+            "author": "100056231760206",
+            "time": 1724116252710
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802622
+    },
+    "pass": "9424"
+}

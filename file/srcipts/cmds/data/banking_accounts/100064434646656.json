@@ -1,0 +1,53 @@
+{
+    "account_number": "543266",
+    "uid": "100064434646656",
+    "balance": "0",
+    "created_at": 1721852486239,
+    "debt": "8128",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "1000",
+            "author": "100064434646656",
+            "time": 1721853908208
+        },
+        {
+            "type": "repay",
+            "amount": "1000",
+            "author": "100064434646656",
+            "time": 1722007526032
+        },
+        {
+            "type": "repay",
+            "amount": "10",
+            "author": "100064434646656",
+            "time": 1722007635466
+        },
+        {
+            "type": "borrow",
+            "amount": "10000",
+            "author": "100064434646656",
+            "time": 1722014966947
+        },
+        {
+            "type": "repay",
+            "amount": "10000",
+            "author": "100064434646656",
+            "time": 1722015306703
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1729865402638,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1722026709187,
+        "debt": 1722029065856
+    },
+    "pass": "1381",
+    "timestamp_due_repay": 1722026708208
+}

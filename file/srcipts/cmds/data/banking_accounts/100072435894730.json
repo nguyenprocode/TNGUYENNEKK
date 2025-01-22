@@ -1,0 +1,49 @@
+{
+    "account_number": "480135",
+    "uid": "100072435894730",
+    "balance": "0",
+    "created_at": 1721617194600,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100072435894730",
+            "time": 1721617201853
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100072435894730",
+            "time": 1721617227704
+        },
+        {
+            "type": "send",
+            "amount": "12750000",
+            "author": "100072435894730",
+            "time": 1721622611257
+        },
+        {
+            "type": "repay",
+            "amount": "10500000",
+            "author": "100072435894730",
+            "time": 1721622623192
+        },
+        {
+            "type": "withdraw",
+            "amount": "2250000",
+            "author": "100072435894730",
+            "time": 1721622633366
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1721703602575,
+        "debt": 1721624402712
+    },
+    "pass": "0186"
+}

@@ -1,0 +1,72 @@
+{
+    "account_number": "011082005",
+    "uid": "100095316046660",
+    "balance": "1375711936",
+    "created_at": 1722262359246,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "100000000",
+            "author": "100095316046660",
+            "time": 1722347451642
+        },
+        {
+            "type": "withdraw",
+            "amount": "100000000",
+            "author": "100095316046660",
+            "time": 1722347555194
+        },
+        {
+            "type": "send",
+            "amount": "100000000",
+            "author": "100095316046660",
+            "time": 1722379629839
+        },
+        {
+            "type": "withdraw",
+            "amount": "1000000",
+            "author": "100095316046660",
+            "time": 1722433961709
+        },
+        {
+            "type": "withdraw",
+            "amount": "102000000",
+            "author": "100095316046660",
+            "time": 1722617783844
+        },
+        {
+            "type": "send",
+            "amount": "206000000",
+            "author": "100095316046660",
+            "time": 1722617922115
+        },
+        {
+            "type": "send",
+            "amount": "1000000000",
+            "author": "100095316046660",
+            "time": 1722888598882
+        },
+        {
+            "type": "withdraw",
+            "amount": "212000000",
+            "author": "100095316046660",
+            "time": 1722897565998
+        },
+        {
+            "type": "withdraw",
+            "amount": "30000000",
+            "author": "100095316046660",
+            "time": 1723232425900
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802669
+    },
+    "pass": "nhanhot11082005@"
+}

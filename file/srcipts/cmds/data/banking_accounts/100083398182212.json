@@ -1,0 +1,61 @@
+{
+    "account_number": "641056",
+    "uid": "100083398182212",
+    "balance": "11333304407",
+    "created_at": 1721650812432,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "1000000",
+            "author": "100083398182212",
+            "time": 1721650842244
+        },
+        {
+            "type": "repay",
+            "amount": "1000000",
+            "author": "100083398182212",
+            "time": 1721650960170
+        },
+        {
+            "type": "send",
+            "amount": "100000000",
+            "author": "100083398182212",
+            "time": 1721683412707
+        },
+        {
+            "type": "send",
+            "amount": "900000000",
+            "author": "100083398182212",
+            "time": 1721683426429
+        },
+        {
+            "type": "send",
+            "amount": "900000000",
+            "author": "100083398182212",
+            "time": 1721683451274
+        },
+        {
+            "type": "send",
+            "amount": "60000000",
+            "author": "100083398182212",
+            "time": 1721683530749
+        },
+        {
+            "type": "send",
+            "amount": "5000000000",
+            "author": "100083398182212",
+            "time": 1721683567853
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802653,
+        "debt": 1721654442661
+    },
+    "pass": "Y"
+}

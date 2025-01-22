@@ -1,0 +1,25 @@
+{
+    "account_number": "626862",
+    "uid": "100034580222619",
+    "balance": "117251",
+    "created_at": 1724534357832,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "receive",
+            "amount": "100000",
+            "content": "ê",
+            "time": 1724534481466,
+            "from": "25122007"
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802622
+    },
+    "pass": "3983"
+}

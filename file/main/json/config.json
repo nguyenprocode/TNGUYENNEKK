@@ -1,0 +1,55 @@
+{
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "restartMqtt": {
+        "enable": true,
+        "minutes": 120
+    },
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "adminOnly": false,
+    "commandDisabled": [
+        "csl.js",
+        "uno.js",
+        "chuidenchet.js",
+        "chuilientuc.js",
+        "gadit.js"
+    ],
+    "eventDisabled": [],
+    "DeveloperMode": false,
+    "EMAIL": "tsangclonemeta@gmail.",
+    "PASSWORD": "duongthaisang",
+    "OTPKEY": "",
+    "BOTNAME": "thaisang",
+    "PREFIX": ".",
+    "BOXADMIN": "",
+    "NDH": [
+        "61552707897116"
+    ],
+    "ADMINBOT": [
+        "61552707897116",
+        "61564467696632",
+        "61563651727104",
+        "61550962658401"
+    ],
+    "APPSTATEPATH": "fbstate.json",
+    "version": "4.5.0",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "log": {
+        "enable": true
+    },
+    "work": {
+        "cooldownTime": 108000000
+    }
+}

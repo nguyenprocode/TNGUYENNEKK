@@ -1,0 +1,17 @@
+{
+    "account_number": "699160",
+    "uid": "61557788700933",
+    "balance": "0",
+    "created_at": 1721920692724,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [],
+    "logins": [],
+    "settings": {
+        "_2fa": true
+    },
+    "expired_ban": {},
+    "interest_period": {},
+    "pass": "7435"
+}

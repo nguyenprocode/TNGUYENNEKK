@@ -1,0 +1,72 @@
+{
+    "account_number": "952267",
+    "uid": "100095248502365",
+    "balance": "0",
+    "created_at": 1720391497589,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "1000000",
+            "author": "100095248502365",
+            "time": 1720640649132
+        },
+        {
+            "type": "send",
+            "amount": "24014828009",
+            "author": "100095248502365",
+            "time": 1722282895811
+        },
+        {
+            "type": "withdraw",
+            "amount": "24015862529",
+            "author": "100095248502365",
+            "time": 1722282986494
+        },
+        {
+            "type": "send",
+            "amount": "15862529",
+            "author": "100095248502365",
+            "time": 1722283039322
+        },
+        {
+            "type": "send",
+            "amount": "198638",
+            "author": "100095248502365",
+            "time": 1722283106146
+        },
+        {
+            "type": "withdraw",
+            "amount": "16061167",
+            "author": "100095248502365",
+            "time": 1722283243521
+        },
+        {
+            "type": "send",
+            "amount": "61167",
+            "author": "100095248502365",
+            "time": 1722283270012
+        },
+        {
+            "type": "send",
+            "amount": "1005000000000",
+            "author": "100095248502365",
+            "time": 1722456421135
+        },
+        {
+            "type": "withdraw",
+            "amount": "1005000062395",
+            "author": "100095248502365",
+            "time": 1722462147005
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1722534278240
+    },
+    "pass": "014"
+}

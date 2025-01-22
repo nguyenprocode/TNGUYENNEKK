@@ -1,0 +1,35 @@
+{
+    "account_number": "862436",
+    "uid": "61563327400547",
+    "balance": "0",
+    "created_at": 1722432528723,
+    "debt": "67047466",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "61563327400547",
+            "time": 1722432542157
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "61563327400547",
+            "time": 1722432567624
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1727880002249,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1722518943054,
+        "debt": 1722607493857
+    },
+    "pass": "0486",
+    "timestamp_due_repay": 1722605342157
+}

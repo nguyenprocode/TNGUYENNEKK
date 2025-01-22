@@ -1,0 +1,48 @@
+{
+    "account_number": "034418",
+    "uid": "100055005256680",
+    "balance": "1435001734",
+    "created_at": 1722167015377,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "43417707",
+            "author": "100055005256680",
+            "time": 1722357724832
+        },
+        {
+            "type": "send",
+            "amount": "24824986",
+            "author": "100055005256680",
+            "time": 1722471408299
+        },
+        {
+            "type": "send",
+            "amount": "800000000",
+            "author": "100055005256680",
+            "time": 1722471451473
+        },
+        {
+            "type": "withdraw",
+            "amount": "900000000",
+            "author": "100055005256680",
+            "time": 1722906187714
+        },
+        {
+            "type": "send",
+            "amount": "1000000000",
+            "author": "100055005256680",
+            "time": 1722906307056
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802622
+    },
+    "pass": "7548"
+}

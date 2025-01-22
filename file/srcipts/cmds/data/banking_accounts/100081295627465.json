@@ -1,0 +1,51 @@
+{
+    "account_number": "893377",
+    "uid": "100081295627465",
+    "balance": "169085032464120",
+    "created_at": 1722295696073,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "111132756627429",
+            "author": "100081295627465",
+            "time": 1722327222154
+        },
+        {
+            "type": "receive",
+            "amount": "100000000000",
+            "content": "Lì xì",
+            "time": 1722458614931,
+            "from": "612229"
+        },
+        {
+            "type": "send",
+            "amount": "6318554",
+            "author": "100081295627465",
+            "time": 1722463065475
+        },
+        {
+            "type": "send",
+            "amount": "100000000000",
+            "author": "100081295627465",
+            "time": 1722600254667
+        },
+        {
+            "type": "withdraw",
+            "amount": "50000000",
+            "author": "100081295627465",
+            "time": 1722803305900
+        }
+    ],
+    "logins": [],
+    "settings": {
+        "_2fa": true
+    },
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802653
+    },
+    "pass": "Nahidowin"
+}

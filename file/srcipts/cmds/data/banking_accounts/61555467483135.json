@@ -1,0 +1,35 @@
+{
+    "account_number": "396009",
+    "uid": "61555467483135",
+    "balance": "0",
+    "created_at": 1721672000926,
+    "debt": "89850014",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "61555467483135",
+            "time": 1721672089957
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "61555467483135",
+            "time": 1721672118616
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1729750769067,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1721758490137,
+        "debt": 1721845968608
+    },
+    "pass": "15042010",
+    "timestamp_due_repay": 1721844889957
+}

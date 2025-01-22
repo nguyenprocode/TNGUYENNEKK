@@ -1,0 +1,52 @@
+{
+    "boxname": [
+        {
+            "threadID": "8202645266530252",
+            "name": "Blizzard Regards _ 20/10/2024(xBR•)"
+        },
+        {
+            "threadID": "8552356568133700",
+            "name": "Đế Da"
+        }
+    ],
+    "boximage": [
+        {
+            "threadID": "8202645266530252",
+            "url": "https://files.catbox.moe/et9biq.jpeg"
+        },
+        {
+            "threadID": "8552356568133700",
+            "url": "https://files.catbox.moe/7ab7nq.jpeg"
+        }
+    ],
+    "antiNickname": [],
+    "antiout": {
+        "9354193141317806": true
+    },
+    "antiEmoji": {
+        "8202645266530252": {
+            "emoji": "❄️",
+            "enabled": true
+        }
+    },
+    "antiTheme": {
+        "6328370547184627": {
+            "themeid": "375805881509551",
+            "enabled": true
+        },
+        "6834871869889629": {
+            "themeid": "1092741935583840",
+            "enabled": true
+        },
+        "8202645266530252": {
+            "themeid": "3190514984517598",
+            "enabled": true
+        },
+        "27639642315649997": {
+            "themeid": "846723720930746",
+            "enabled": true
+        }
+    },
+    "antiQtv": {},
+    "antijoin": {}
+}

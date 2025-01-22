@@ -1,0 +1,35 @@
+{
+    "account_number": "743134",
+    "uid": "100042937284911",
+    "balance": "0",
+    "created_at": 1722429635607,
+    "debt": "67047466",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100042937284911",
+            "time": 1722429655670
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100042937284911",
+            "time": 1722429742020
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1727880002153,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1722516055774,
+        "debt": 1722603893133
+    },
+    "pass": "9254",
+    "timestamp_due_repay": 1722602455670
+}

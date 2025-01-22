@@ -1,0 +1,24 @@
+{
+    "account_number": "116453",
+    "uid": "100045939889627",
+    "balance": "151858",
+    "created_at": 1722255579981,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "100000",
+            "author": "100045939889627",
+            "time": 1722255623616
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802622
+    },
+    "pass": "4459"
+}

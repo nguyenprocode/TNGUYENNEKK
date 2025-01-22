@@ -1,0 +1,29 @@
+{
+    "account_number": "870066",
+    "uid": "100077008545167",
+    "balance": "1010000",
+    "created_at": 1722084315945,
+    "debt": "8984944",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "1000000",
+            "author": "100077008545167",
+            "time": 1722084510064
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1727441310964,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1722257310690,
+        "debt": 1722258072431
+    },
+    "pass": "7595",
+    "timestamp_due_repay": 1722257310064
+}

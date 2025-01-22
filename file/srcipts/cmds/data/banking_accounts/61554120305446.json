@@ -1,0 +1,35 @@
+{
+    "account_number": "192726",
+    "uid": "61554120305446",
+    "balance": "0",
+    "created_at": 1720363025033,
+    "debt": "388326858979",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000000",
+            "author": "61554120305446",
+            "time": 1720363054777
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000000",
+            "author": "61554120305446",
+            "time": 1720363065303
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1729104599468,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1720449454967,
+        "debt": 1721150625177
+    },
+    "pass": "887",
+    "timestamp_due_repay": 1720967854777
+}

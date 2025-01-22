@@ -1,0 +1,37 @@
+{
+    "account_number": "156039",
+    "uid": "100081497032511",
+    "balance": "0",
+    "created_at": 1721670396398,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100081497032511",
+            "time": 1722854393197
+        },
+        {
+            "type": "repay",
+            "amount": "1000000",
+            "author": "100081497032511",
+            "time": 1722854505624
+        },
+        {
+            "type": "repay",
+            "amount": "9000000",
+            "author": "100081497032511",
+            "time": 1722854521347
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1722940793959,
+        "debt": 1722857993960
+    },
+    "pass": "1014"
+}

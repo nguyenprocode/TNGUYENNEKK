@@ -1,0 +1,31 @@
+{
+    "account_number": "983679",
+    "uid": "100075183980954",
+    "balance": "0",
+    "created_at": 1721852896681,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000",
+            "author": "100075183980954",
+            "time": 1721853106286
+        },
+        {
+            "type": "repay",
+            "amount": "10000",
+            "author": "100075183980954",
+            "time": 1721853538057
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1721939506895,
+        "debt": 1721856706896
+    },
+    "pass": "Huynhtrungbjncubu"
+}

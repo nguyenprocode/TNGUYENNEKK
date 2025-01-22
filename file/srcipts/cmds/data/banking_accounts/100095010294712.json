@@ -1,0 +1,41 @@
+{
+    "account_number": "804688",
+    "uid": "100095010294712",
+    "balance": "5201446",
+    "created_at": 1721177258453,
+    "debt": "28260571490",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100095010294712",
+            "time": 1721177285526
+        },
+        {
+            "type": "withdraw",
+            "amount": "5000000",
+            "author": "100095010294712",
+            "time": 1721177373042
+        },
+        {
+            "type": "repay",
+            "amount": "100000",
+            "author": "100095010294712",
+            "time": 1721214814353
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1729750769052,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1721782291103,
+        "debt": 1721781240275
+    },
+    "pass": "148",
+    "timestamp_due_repay": 1721782085526
+}

@@ -1,0 +1,74 @@
+{
+    "account_number": "707539",
+    "uid": "100057095765275",
+    "balance": "0",
+    "created_at": 1721177654067,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "5000000000",
+            "author": "100057095765275",
+            "time": 1721177668044
+        },
+        {
+            "type": "withdraw",
+            "amount": "5000000000",
+            "author": "100057095765275",
+            "time": 1721177717352
+        },
+        {
+            "type": "send",
+            "amount": "10000000000",
+            "author": "100057095765275",
+            "time": 1721177790218
+        },
+        {
+            "type": "repay",
+            "amount": "5000000000",
+            "author": "100057095765275",
+            "time": 1721177802912
+        },
+        {
+            "type": "borrow",
+            "amount": "10000000000",
+            "author": "100057095765275",
+            "time": 1721177974256
+        },
+        {
+            "type": "withdraw",
+            "amount": "15000000000",
+            "author": "100057095765275",
+            "time": 1721177989736
+        },
+        {
+            "type": "send",
+            "amount": "30000000000",
+            "author": "100057095765275",
+            "time": 1721178035841
+        },
+        {
+            "type": "repay",
+            "amount": "10000000000",
+            "author": "100057095765275",
+            "time": 1721178049039
+        },
+        {
+            "type": "withdraw",
+            "amount": "20000000000",
+            "author": "100057095765275",
+            "time": 1721178235112
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1721264068317,
+        "debt": 1721181268317
+    },
+    "pass": "1",
+    "timestamp_due_repay": 1721782468044
+}

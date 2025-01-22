@@ -1,0 +1,36 @@
+{
+    "account_number": "294479",
+    "uid": "100081921150951",
+    "balance": "0",
+    "created_at": 1722378588015,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "400000000",
+            "author": "100081921150951",
+            "time": 1722378774074
+        },
+        {
+            "type": "send",
+            "amount": "300000000",
+            "author": "100081921150951",
+            "time": 1722535898875
+        },
+        {
+            "type": "withdraw",
+            "amount": "711040000",
+            "author": "100081921150951",
+            "time": 1722627372517
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1722637976271
+    },
+    "pass": "hoangtuananh"
+}

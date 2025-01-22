@@ -1,0 +1,35 @@
+{
+    "account_number": "149423",
+    "uid": "100089091623291",
+    "balance": "5050000",
+    "created_at": 1721673109522,
+    "debt": "49417483",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100089091623291",
+            "time": 1721841186831
+        },
+        {
+            "type": "repay",
+            "amount": "5000000",
+            "author": "100089091623291",
+            "time": 1721848171730
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1729865402653,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1722013988084,
+        "debt": 1722014019056
+    },
+    "pass": "7706",
+    "timestamp_due_repay": 1722013986831
+}

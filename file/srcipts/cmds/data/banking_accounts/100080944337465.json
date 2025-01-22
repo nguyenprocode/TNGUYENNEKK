@@ -1,0 +1,82 @@
+{
+    "account_number": "261132",
+    "uid": "100080944337465",
+    "balance": "460133363",
+    "created_at": 1721769207855,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "receive",
+            "amount": "300000",
+            "content": "Skibidi",
+            "time": 1721769628315,
+            "from": "123814"
+        },
+        {
+            "type": "receive",
+            "amount": "50000000",
+            "content": "Skibidi đã tặng 10 j97",
+            "time": 1721769900254,
+            "from": "123814"
+        },
+        {
+            "type": "withdraw",
+            "amount": "50000000",
+            "author": "100080944337465",
+            "time": 1721769929051
+        },
+        {
+            "type": "receive",
+            "amount": "57781251",
+            "content": "Skibidi",
+            "time": 1721840202187,
+            "from": "123814"
+        },
+        {
+            "type": "withdraw",
+            "amount": "58000000",
+            "author": "100080944337465",
+            "time": 1721844479984
+        },
+        {
+            "type": "withdraw",
+            "amount": "50000",
+            "author": "100080944337465",
+            "time": 1721861094192
+        },
+        {
+            "type": "withdraw",
+            "amount": "33000",
+            "author": "100080944337465",
+            "time": 1722118704920
+        },
+        {
+            "type": "receive",
+            "amount": "500000000",
+            "content": "1",
+            "time": 1722344984673,
+            "from": "123814"
+        },
+        {
+            "type": "withdraw",
+            "amount": "100000000",
+            "author": "100080944337465",
+            "time": 1722345164982
+        },
+        {
+            "type": "withdraw",
+            "amount": "100000000",
+            "author": "100080944337465",
+            "time": 1722431563702
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802653
+    },
+    "pass": "Nguyensanh"
+}

@@ -1,0 +1,44 @@
+{
+    "account_number": "844159",
+    "uid": "61550588785248",
+    "balance": "155261822625",
+    "created_at": 1720349881389,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "100082854116",
+            "author": "61550588785248",
+            "time": 1722109890071
+        },
+        {
+            "type": "pay",
+            "amount": "1000",
+            "content": "Test",
+            "author": "61550588785248",
+            "time": 1722283437600,
+            "to": "856889"
+        },
+        {
+            "type": "send",
+            "amount": "135368792",
+            "author": "61550588785248",
+            "time": 1722460892327
+        },
+        {
+            "type": "send",
+            "amount": "103435",
+            "author": "61550588785248",
+            "time": 1722525663805
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802669
+    },
+    "pass": ""
+}

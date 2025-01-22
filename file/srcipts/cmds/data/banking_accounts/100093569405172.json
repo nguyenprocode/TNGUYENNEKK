@@ -1,0 +1,24 @@
+{
+    "account_number": "191610",
+    "uid": "100093569405172",
+    "balance": "311976",
+    "created_at": 1721651210485,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "191610",
+            "author": "100093569405172",
+            "time": 1721651487170
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802669
+    },
+    "pass": "4141"
+}

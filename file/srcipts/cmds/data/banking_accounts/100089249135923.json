@@ -1,0 +1,36 @@
+{
+    "account_number": "736214",
+    "uid": "100089249135923",
+    "balance": "195128083",
+    "created_at": 1724115983620,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "100000000",
+            "author": "100089249135923",
+            "time": 1724116149367
+        },
+        {
+            "type": "send",
+            "amount": "68332824",
+            "author": "100089249135923",
+            "time": 1724116169210
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100089249135923",
+            "time": 1724116178408
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802653
+    },
+    "pass": "2598"
+}

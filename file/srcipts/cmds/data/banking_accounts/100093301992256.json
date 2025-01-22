@@ -1,0 +1,61 @@
+{
+    "account_number": "988404",
+    "uid": "100093301992256",
+    "balance": "32462381",
+    "created_at": 1721848266448,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "10000",
+            "author": "100093301992256",
+            "time": 1722202066391
+        },
+        {
+            "type": "send",
+            "amount": "10000000",
+            "author": "100093301992256",
+            "time": 1722202110629
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100093301992256",
+            "time": 1722202238283
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000",
+            "author": "100093301992256",
+            "time": 1722202261004
+        },
+        {
+            "type": "borrow",
+            "amount": "+1000000",
+            "author": "100093301992256",
+            "time": 1722202303804
+        },
+        {
+            "type": "repay",
+            "amount": "1000000",
+            "author": "100093301992256",
+            "time": 1722202341301
+        },
+        {
+            "type": "send",
+            "amount": "21803477",
+            "author": "100093301992256",
+            "time": 1722510167280
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802669,
+        "debt": 1722205903994
+    },
+    "pass": "Nmyydepzais1tg"
+}

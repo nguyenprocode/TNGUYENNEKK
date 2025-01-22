@@ -1,0 +1,48 @@
+{
+    "account_number": "066103",
+    "uid": "100086917710209",
+    "balance": "491633477",
+    "created_at": 1722352857101,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "100000000",
+            "author": "100086917710209",
+            "time": 1722352973651
+        },
+        {
+            "type": "send",
+            "amount": "180000000",
+            "author": "100086917710209",
+            "time": 1722357307547
+        },
+        {
+            "type": "send",
+            "amount": "43210000",
+            "author": "100086917710209",
+            "time": 1722357677636
+        },
+        {
+            "type": "send",
+            "amount": "765432",
+            "author": "100086917710209",
+            "time": 1722357754074
+        },
+        {
+            "type": "send",
+            "amount": "2992000",
+            "author": "100086917710209",
+            "time": 1722457488344
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802653
+    },
+    "pass": "8408"
+}

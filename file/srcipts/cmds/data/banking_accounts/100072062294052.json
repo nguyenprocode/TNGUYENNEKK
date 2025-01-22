@@ -1,0 +1,31 @@
+{
+    "account_number": "485293",
+    "uid": "100072062294052",
+    "balance": "0",
+    "created_at": 1723232471066,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100072062294052",
+            "time": 1723233676238
+        },
+        {
+            "type": "repay",
+            "amount": "10000000",
+            "author": "100072062294052",
+            "time": 1723234280718
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1723320076832,
+        "debt": 1723237276832
+    },
+    "pass": "7651"
+}

@@ -1,0 +1,60 @@
+{
+    "account_number": "449171",
+    "uid": "100066348651822",
+    "balance": "89594719",
+    "created_at": 1722700704986,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "10000000",
+            "author": "100066348651822",
+            "time": 1722701041575
+        },
+        {
+            "type": "send",
+            "amount": "10000000",
+            "author": "100066348651822",
+            "time": 1722701057885
+        },
+        {
+            "type": "send",
+            "amount": "1000000",
+            "author": "100066348651822",
+            "time": 1722701099681
+        },
+        {
+            "type": "send",
+            "amount": "10000000",
+            "author": "100066348651822",
+            "time": 1722701115936
+        },
+        {
+            "type": "send",
+            "amount": "20000000",
+            "author": "100066348651822",
+            "time": 1722701128575
+        },
+        {
+            "type": "send",
+            "amount": "10000000",
+            "author": "100066348651822",
+            "time": 1722701152488
+        },
+        {
+            "type": "send",
+            "amount": "1000000",
+            "author": "100066348651822",
+            "time": 1722701238483
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1727359802638
+    },
+    "pass": "0637"
+}

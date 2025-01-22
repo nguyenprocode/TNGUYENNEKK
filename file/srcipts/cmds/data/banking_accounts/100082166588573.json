@@ -1,0 +1,35 @@
+{
+    "account_number": "095279",
+    "uid": "61564467696632",
+    "balance": "0",
+    "created_at": 1723997089226,
+    "debt": "43219398",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "61564467696632",
+            "time": 1723997097086
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "61564467696632",
+            "time": 1724008777333
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1726761898010,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1724083497430,
+        "debt": 1724172800186
+    },
+    "pass": "5411",
+    "timestamp_due_repay": 1724169897086
+}

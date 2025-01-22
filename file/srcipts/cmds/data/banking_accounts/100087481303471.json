@@ -1,0 +1,29 @@
+{
+    "account_number": "231536",
+    "uid": "100087481303471",
+    "balance": "10100000",
+    "created_at": 1722080271486,
+    "debt": "89850014",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100087481303471",
+            "time": 1722081076778
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1727438672325,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1722253877362,
+        "debt": 1722254471472
+    },
+    "pass": "3416",
+    "timestamp_due_repay": 1722253876778
+}

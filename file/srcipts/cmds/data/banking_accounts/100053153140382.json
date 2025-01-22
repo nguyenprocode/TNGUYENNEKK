@@ -1,0 +1,31 @@
+{
+    "account_number": "152914",
+    "uid": "100053153140382",
+    "balance": "0",
+    "created_at": 1721861081140,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "receive",
+            "amount": "50000000",
+            "content": "🐧",
+            "time": 1721951723952,
+            "from": "123814"
+        },
+        {
+            "type": "withdraw",
+            "amount": "50000000",
+            "author": "100053153140382",
+            "time": 1721951749753
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1722038124965
+    },
+    "pass": "Huy890"
+}
